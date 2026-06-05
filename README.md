@@ -1,1 +1,1 @@
-product classifier app using machine learning
+product classification app using machine learning
